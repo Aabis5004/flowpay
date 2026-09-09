@@ -325,8 +325,8 @@ export default function SwapPage() {
       <div className="p-4 bg-sky-500/5 border border-sky-500/20 rounded-2xl flex items-start gap-3">
         <Sparkles className="w-5 h-5 text-sky-400 mt-0.5" />
         <div className="text-sm text-sky-200/70">
-          <strong className="text-sky-300 font-medium block mb-1">AI Recurring Swap (Coming Soon)</strong>
-          Set up automated, dollar-cost average swaps executing at optimal gas times using Arc AI.
+          <strong className="text-sky-300 font-medium block mb-1">Seismic Recurring Swap (Coming Soon)</strong>
+          Set up automated, dollar-cost average swaps executing at optimal gas times securely on Seismic.
         </div>
       </div>
     </div>
