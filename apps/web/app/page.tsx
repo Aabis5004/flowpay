@@ -10,7 +10,7 @@ const features = [
   {
     icon: Shield,
     title: 'Secure by default',
-    body: 'Balances and amounts are securely managed on-chain via Seismic Pay contracts.',
+    body: 'Balances and amounts are securely managed on-chain via Rialo Pay contracts.',
   },
   {
     icon: Sparkles,
@@ -25,7 +25,7 @@ const features = [
   {
     icon: Zap,
     title: 'Sub-second finality',
-    body: 'Built on Seismic Testnet for fast settlement.',
+    body: 'Built on Rialo Testnet for fast settlement.',
   },
 ];
 
@@ -65,7 +65,7 @@ export default function Home() {
         >
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/5 border border-white/10 text-xs font-medium text-white/60 mb-8">
             <div className="w-1.5 h-1.5 rounded-full bg-violet-500" />
-            Built on Seismic
+            Built on Rialo
           </div>
           <h1 className="text-6xl md:text-7xl tracking-tight leading-[1.05] mb-6">
             Smart payments,

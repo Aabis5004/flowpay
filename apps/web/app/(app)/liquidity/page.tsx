@@ -578,8 +578,8 @@ export default function LiquidityPage() {
       <div className="p-4 bg-indigo-50 border border-indigo-100 rounded-2xl flex items-start gap-3 mt-6 max-w-xl mx-auto text-center">
         <Sparkles className="w-5 h-5 text-indigo-500 mt-0.5 shrink-0" />
         <div className="text-sm text-indigo-900/80 text-left">
-          <strong className="text-indigo-900 font-semibold block mb-1">Seismic Smart LP (Coming Soon)</strong>
-          Automatically rebalance your liquidity ranges and compound rewards using Seismic to maximize yields.
+          <strong className="text-indigo-900 font-semibold block mb-1">Rialo Smart LP (Coming Soon)</strong>
+          Automatically rebalance your liquidity ranges and compound rewards using Rialo to maximize yields.
         </div>
       </div>
     </div>

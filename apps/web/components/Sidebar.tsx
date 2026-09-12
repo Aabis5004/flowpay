@@ -37,6 +37,7 @@ const nav = [
   { href: '/card', label: 'Card', icon: CreditCard },
   { href: '/trading', label: 'Flow AI', icon: Sparkles },
   { href: '/settings', label: 'Settings', icon: Settings },
+  { href: '/docs', label: 'Docs', icon: Book },
 ];
 
 export function Sidebar({ onNavigate }: { onNavigate?: () => void }) {
